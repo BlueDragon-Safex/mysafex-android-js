@@ -1,0 +1,16 @@
+{
+  "appId": "com.mysafex.official_android_application",
+  "appName": "MySafex",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "browser_build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "hostname": "com.mysafex.android",
+    "androidScheme": "https"
+  }
+}
