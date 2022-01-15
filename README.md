@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://snyk.io/test/github/mysafex/mysafex-utils"><img src="https://snyk.io/test/github/mysafex/mysafex-android-js/badge.svg"></a>
+  <a href="https://snyk.io/test/github/mysafex/mysafex-utils"><img src="https://drive.google.com/file/d/1VQlytjffC6oST-TpHy6egVaH1Is6CooJ/view?usp=sharing"></a>
   <a href="https://opensource.org/licenses/BSD-3-Clause"><img src="https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"></a>
 </p>
 
@@ -37,7 +37,7 @@ If you would like to report an issue or share a feature request, please create a
 
 If you're reporting a bug, be sure to include all information which we would need to reproduce the issue, such as the operating system and app version on which you saw the bug, and the steps you took, if you can tell. 
 
-Please don't use the Issues tracker for general support or inquiries. You can also [contact us](https://mysafex.com/support) directly.
+Please don't use the Issues tracker for general support or inquiries. You can also [contact us](https://globalsafex.com/support) directly.
 
 ## Installation
 

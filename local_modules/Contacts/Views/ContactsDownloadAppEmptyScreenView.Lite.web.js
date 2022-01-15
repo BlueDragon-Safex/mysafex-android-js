@@ -22,7 +22,7 @@ class ContactsDownloadAppEmptyScreenView extends View {
     //
     const emptyStateMessageContainerView = commonComponents_emptyScreens.New_EmptyStateMessageContainerView(
       '👇',
-      "To create Contacts,<br/><a href=\"https://mysafex.com\" target=\"_blank\" style='color: #11bbec; cursor: pointer; -webkit-user-select: none; text-decoration: none;'>download the app</a>.",
+      "To create Contacts,<br/><a href=\"https://globalsafex.com\" target=\"_blank\" style='color: #11bbec; cursor: pointer; -webkit-user-select: none; text-decoration: none;'>download the app</a>.",
       self.context,
       0,
       0

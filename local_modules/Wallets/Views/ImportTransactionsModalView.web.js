@@ -29,7 +29,7 @@ class ImportTransactionsModalView extends View {
     const specificAPIAddressURLAuthority = self.context.settingsController.specificAPIAddressURLAuthority
     self.approximate_importOAAddress = specificAPIAddressURLAuthority != null && specificAPIAddressURLAuthority != '' && typeof specificAPIAddressURLAuthority !== 'undefined'
       ? `import.${specificAPIAddressURLAuthority}` // this is obvs 'approximate' and only meant to be used as an example…… if specificAPIAddressURLAuthority contains a port or a subdomain then this will appear to be obviously wrong but still server its purpose as an example to the power user who is entering a custom server address
-      : 'import.mysafex.com' // TODO: possibly get this from a shared config file
+      : 'import.globalsafex.com' // TODO: possibly get this from a shared config file
     //
     self.setup_views()
     self.startObserving()
@@ -529,7 +529,7 @@ class ImportTransactionsModalView extends View {
             self.amountInputLayer.value = amountStr
           }
           {
-            // const command = `transfer 3 import.mysafex.com ${import_fee__JSBigInt} ${payment_id}`
+            // const command = `transfer 3 import.globalsafex.com ${import_fee__JSBigInt} ${payment_id}`
             const tooltipText = 'For convenience you may send the fee from MySafex here, or the official CLI or GUI tools, or any other Safex wallet.<br/><br/>Please be sure to use the exact payment ID below, so the server knows which wallet to import.'
             const view = commonComponents_tooltips.New_TooltipSpawningButtonView(tooltipText, self.context)
             const layer = view.layer

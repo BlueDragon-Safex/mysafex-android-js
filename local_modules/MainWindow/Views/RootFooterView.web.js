@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2019, MySafex.com
+// Copyright (c) 2014-2019, MyMonero.com
 //
 // All rights reserved.
 //
@@ -64,25 +64,25 @@ class RootFooterView extends View
 		// tr.appendChild(self._new_linkButtonLayerElement("Home", primaryUtilityLink_colorValue, function(e)
 		// {
 		// 	e.preventDefault()
-		// 	window.open('https://www.mysafex.com/', '_blank') // new tab
+		// 	window.open('https://www.globalsafex.com/', '_blank') // new tab
 		// 	return false;
 		// }))
 		// tr.appendChild(self._new_linkButtonLayerElement("Privacy", utilityLink_colorValue, function(e)
 		// {
 		// 	e.preventDefault()
-		// 	window.open('https://www.mysafex.com/privacy', '_blank') // new tab
+		// 	window.open('https://www.globalsafex.com/privacy', '_blank') // new tab
 		// 	return false;
 		// }))
 		// tr.appendChild(self._new_linkButtonLayerElement("Terms", utilityLink_colorValue, function(e)
 		// {
 		// 	e.preventDefault()
-		// 	window.open('https://www.mysafex.com/terms', '_blank') // new tab
+		// 	window.open('https://www.globalsafex.com/terms', '_blank') // new tab
 		// 	return false;
 		// }))
 		// tr.appendChild(self._new_linkButtonLayerElement("Support", importantLink_colorValue, function(e)
 		// {
 		// 	e.preventDefault()
-		// 	window.open("https://mysafex.com/?open_support=1", "_blank")
+		// 	window.open("https://globalsafex.com/?open_support=1", "_blank")
 		// 	// shift to this when support can be brought directly back in:
 		// 	// window.Intercom('show')
 		// 	// previous:

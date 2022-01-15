@@ -20,12 +20,12 @@ window.BootApp = function () { // encased in a function to prevent scope being l
   MySafexLibAppBridge({}).then(function (coreBridge_instance) {
     const context = indexContextBrowser.NewHydratedContext({
       nettype: 0,
-      apiUrl: 'api.mysafex.com',
+      apiUrl: 'api.globalsafex.com',
       version: version,
       name: 'MySafex',
       isDebug: isDebug,
       Cordova_isMobile: false, // (this can be renamed or maybe deprecated)
-      appDownloadLink_domainAndPath: 'mysafex.com',
+      appDownloadLink_domainAndPath: 'globalsafex.com',
       HostedSafexAPIClient_DEBUGONLY_mockSendTransactionSuccess: false,
       safex_utils: coreBridge_instance
     })

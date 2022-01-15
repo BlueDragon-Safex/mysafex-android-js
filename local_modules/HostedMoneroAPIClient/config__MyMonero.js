@@ -1,3 +1,3 @@
 export default {
-  API__authority: 'api.mysafex.com:8443'
+  API__authority: 'api.globalsafex.com:8443'
 }

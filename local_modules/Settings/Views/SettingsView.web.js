@@ -292,7 +292,7 @@ class SettingsView extends View {
       div.appendChild(labelLayer)
       //
       const valueLayer = commonComponents_forms.New_fieldValue_textInputLayer(self.context, {
-        placeholderText: 'Leave blank to use mysafex.com'
+        placeholderText: 'Leave blank to use globalsafex.com'
       })
       valueLayer.autocomplete = 'off'
       valueLayer.autocorrect = 'off'

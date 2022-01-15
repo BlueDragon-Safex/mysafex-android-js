@@ -1,5 +1,5 @@
 
-// Copyright (c) 2014-2019, MySafex.com
+// Copyright (c) 2014-2019, MyMonero.com
 //
 // All rights reserved.
 //

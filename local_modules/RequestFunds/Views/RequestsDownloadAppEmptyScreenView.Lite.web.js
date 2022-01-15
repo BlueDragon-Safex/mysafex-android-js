@@ -22,7 +22,7 @@ class RequestsDownloadAppEmptyScreenView extends View {
     //
     const emptyStateMessageContainerView = commonComponents_emptyScreens.New_EmptyStateMessageContainerView(
       '👇',
-      "To make Safex Requests,<br/><a href=\"https://mysafex.com\" target=\"_blank\" style='color: #11bbec; cursor: pointer; -webkit-user-select: none; text-decoration: none;'>download the app</a>.",
+      "To make Safex Requests,<br/><a href=\"https://globalsafex.com\" target=\"_blank\" style='color: #11bbec; cursor: pointer; -webkit-user-select: none; text-decoration: none;'>download the app</a>.",
       self.context,
       0,
       0
