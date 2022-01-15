@@ -1,7 +1,7 @@
 # MySafex Android Wallet 
 
 <p align="center">
-  <img alt="MySafex" src="https://user-images.githubusercontent.com/1645428/146000939-b06f8fd3-9ed2-4a5e-bdd6-3981281dde9c.png">
+  <img alt="MySafex" src="https://drive.google.com/file/d/1VQlytjffC6oST-TpHy6egVaH1Is6CooJ/view?usp=sharing">
 </p>
 
 <p align="center">
