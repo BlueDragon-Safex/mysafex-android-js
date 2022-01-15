@@ -119,27 +119,27 @@ Proceeds from donations are used to fund development on the MySafex back-end ser
 
 See `LICENSE.txt` for license.
 
-All app source code and assets copyright © 2014-2021 by MySafex. All rights reserved.
+All app source code and assets copyright © 2014-2021 by MyMonero. All rights reserved.
 
 ## Acknowledgements
 
 Contributors to each release are credited in release notes.
 
-### Core Contributors
+### MyMonero Core Contributors
 
-* 💱 `jkarlos` ([Karl Buys](https://github.com/karlbuys)) Lead maintainer; core developer
+* 💱 `jkarlos` ([Karl Buys](https://github.com/karlbuys)) Lead maintainer; core developer MyMonero
 
-* 🍕 `Tekkzbadger` ([Devin Pearson](https://github.com/devinpearson)) Maintainer; core developer
+* 🍕 `Tekkzbadger` ([Devin Pearson](https://github.com/devinpearson)) Maintainer; core developer MyMonero
 
-* 🦄 `fluffyponyza` ([Riccardo Spagni](https://github.com/fluffypony)) Advisor; MySafex founder; Safex core team member
+* 🦄 `fluffyponyza` ([Riccardo Spagni](https://github.com/fluffypony)) Advisor; MyMonero founder; Safex core team member
 
-* 🏂 `endogenic` ([Paul Shapiro](https://github.com/paulshapiro)) Former core maintainer; MySafex core contributor
+* 🏂 `endogenic` ([Paul Shapiro](https://github.com/paulshapiro)) Former core maintainer; MyMonero core contributor
 
-* 😎 `vtnerd` ([Lee Clagett](https://github.com/vtnerd)) Lead back-end developer
+* 😎 `vtnerd` ([Lee Clagett](https://github.com/vtnerd)) Lead back-end developer MyMonero
 
-* 🍄 `luigi` Safex tech advisor; Main MySafex JS core crypto contributor
+* 🍄 `luigi` Safex tech advisor; Main MyMonero JS core crypto contributor
 
-* 🔥 `mds` ([Matt Smith](http://mds.is)) MVP designer
+* 🔥 `mds` ([Matt Smith](http://mds.is)) MVP designer MyMonero
 
 * 🌠 Your name here?
 
@@ -147,4 +147,4 @@ Contributors to each release are credited in release notes.
 
 See `LICENSE.txt` for license.
 
-All app source code and assets copyright © 2014-2021 by MySafex. All rights reserved.
+All app source code and assets copyright © 2014-2021 by MyMonero. All rights reserved.
